@@ -1,0 +1,4 @@
+Quantidade de select - 0
+Quantidade de insert - 0
+Quantidade de update - 0
+Quantidade de delete - 0

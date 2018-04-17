@@ -1,0 +1,11 @@
+D:\Projetos\Diaian-buscador\Diaian\bin\Debug\netcoreapp2.0\Diaian.deps.json
+D:\Projetos\Diaian-buscador\Diaian\bin\Debug\netcoreapp2.0\Diaian.runtimeconfig.json
+D:\Projetos\Diaian-buscador\Diaian\bin\Debug\netcoreapp2.0\Diaian.runtimeconfig.dev.json
+D:\Projetos\Diaian-buscador\Diaian\bin\Debug\netcoreapp2.0\Diaian.dll
+D:\Projetos\Diaian-buscador\Diaian\bin\Debug\netcoreapp2.0\Diaian.pdb
+D:\Projetos\Diaian-buscador\Diaian\obj\Debug\netcoreapp2.0\Diaian.csprojResolveAssemblyReference.cache
+D:\Projetos\Diaian-buscador\Diaian\obj\Debug\netcoreapp2.0\Diaian.csproj.CoreCompileInputs.cache
+D:\Projetos\Diaian-buscador\Diaian\obj\Debug\netcoreapp2.0\Diaian.AssemblyInfoInputs.cache
+D:\Projetos\Diaian-buscador\Diaian\obj\Debug\netcoreapp2.0\Diaian.AssemblyInfo.cs
+D:\Projetos\Diaian-buscador\Diaian\obj\Debug\netcoreapp2.0\Diaian.dll
+D:\Projetos\Diaian-buscador\Diaian\obj\Debug\netcoreapp2.0\Diaian.pdb
